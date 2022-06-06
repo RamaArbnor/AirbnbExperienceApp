@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# AirbnbExperienceApp
 
+This is my first app made using REACT!
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
